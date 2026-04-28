@@ -1,0 +1,16 @@
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Q2digitalID\Q2digitalID\bin\Debug\net10.0-windows\Q2digitalID.exe
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Q2digitalID\Q2digitalID\bin\Debug\net10.0-windows\Q2digitalID.deps.json
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Q2digitalID\Q2digitalID\bin\Debug\net10.0-windows\Q2digitalID.runtimeconfig.json
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Q2digitalID\Q2digitalID\bin\Debug\net10.0-windows\Q2digitalID.dll
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Q2digitalID\Q2digitalID\bin\Debug\net10.0-windows\Q2digitalID.pdb
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Q2digitalID\Q2digitalID\obj\Debug\net10.0-windows\HomeAffairsDigitalIdentityProcessor.Form1.resources
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Q2digitalID\Q2digitalID\obj\Debug\net10.0-windows\Q2digitalID.csproj.GenerateResource.cache
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Q2digitalID\Q2digitalID\obj\Debug\net10.0-windows\Q2digitalID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Q2digitalID\Q2digitalID\obj\Debug\net10.0-windows\Q2digitalID.AssemblyInfoInputs.cache
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Q2digitalID\Q2digitalID\obj\Debug\net10.0-windows\Q2digitalID.AssemblyInfo.cs
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Q2digitalID\Q2digitalID\obj\Debug\net10.0-windows\Q2digitalID.csproj.CoreCompileInputs.cache
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Q2digitalID\Q2digitalID\obj\Debug\net10.0-windows\Q2digitalID.dll
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Q2digitalID\Q2digitalID\obj\Debug\net10.0-windows\refint\Q2digitalID.dll
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Q2digitalID\Q2digitalID\obj\Debug\net10.0-windows\Q2digitalID.pdb
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Q2digitalID\Q2digitalID\obj\Debug\net10.0-windows\Q2digitalID.genruntimeconfig.cache
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Q2digitalID\Q2digitalID\obj\Debug\net10.0-windows\ref\Q2digitalID.dll

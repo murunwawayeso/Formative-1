@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="CitizenProfile.cs" />
+  </Folder>
+  <Project Path="Q2digitalID/Q2digitalID.csproj" />
+</Solution>
