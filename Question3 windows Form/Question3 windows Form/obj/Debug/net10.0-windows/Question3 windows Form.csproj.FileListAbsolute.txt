@@ -1,0 +1,16 @@
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question3 windows Form\Question3 windows Form\obj\Debug\net10.0-windows\ProgrammingLanguagesApp.Form1.resources
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question3 windows Form\Question3 windows Form\obj\Debug\net10.0-windows\Question3 windows Form.csproj.GenerateResource.cache
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question3 windows Form\Question3 windows Form\obj\Debug\net10.0-windows\Question3 windows Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question3 windows Form\Question3 windows Form\obj\Debug\net10.0-windows\Question3 windows Form.AssemblyInfoInputs.cache
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question3 windows Form\Question3 windows Form\obj\Debug\net10.0-windows\Question3 windows Form.AssemblyInfo.cs
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question3 windows Form\Question3 windows Form\obj\Debug\net10.0-windows\Question3 windows Form.csproj.CoreCompileInputs.cache
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question3 windows Form\Question3 windows Form\bin\Debug\net10.0-windows\Question3 windows Form.exe
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question3 windows Form\Question3 windows Form\bin\Debug\net10.0-windows\Question3 windows Form.deps.json
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question3 windows Form\Question3 windows Form\bin\Debug\net10.0-windows\Question3 windows Form.runtimeconfig.json
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question3 windows Form\Question3 windows Form\bin\Debug\net10.0-windows\Question3 windows Form.dll
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question3 windows Form\Question3 windows Form\bin\Debug\net10.0-windows\Question3 windows Form.pdb
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question3 windows Form\Question3 windows Form\obj\Debug\net10.0-windows\Question3 windows Form.dll
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question3 windows Form\Question3 windows Form\obj\Debug\net10.0-windows\refint\Question3 windows Form.dll
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question3 windows Form\Question3 windows Form\obj\Debug\net10.0-windows\Question3 windows Form.pdb
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question3 windows Form\Question3 windows Form\obj\Debug\net10.0-windows\Question3 windows Form.genruntimeconfig.cache
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question3 windows Form\Question3 windows Form\obj\Debug\net10.0-windows\ref\Question3 windows Form.dll

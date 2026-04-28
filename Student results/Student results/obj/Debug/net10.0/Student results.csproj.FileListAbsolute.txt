@@ -1,0 +1,14 @@
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Student results\Student results\bin\Debug\net10.0\Student results.exe
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Student results\Student results\bin\Debug\net10.0\Student results.deps.json
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Student results\Student results\bin\Debug\net10.0\Student results.runtimeconfig.json
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Student results\Student results\bin\Debug\net10.0\Student results.dll
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Student results\Student results\bin\Debug\net10.0\Student results.pdb
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Student results\Student results\obj\Debug\net10.0\Student results.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Student results\Student results\obj\Debug\net10.0\Student results.AssemblyInfoInputs.cache
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Student results\Student results\obj\Debug\net10.0\Student results.AssemblyInfo.cs
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Student results\Student results\obj\Debug\net10.0\Student results.csproj.CoreCompileInputs.cache
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Student results\Student results\obj\Debug\net10.0\Student results.dll
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Student results\Student results\obj\Debug\net10.0\refint\Student results.dll
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Student results\Student results\obj\Debug\net10.0\Student results.pdb
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Student results\Student results\obj\Debug\net10.0\Student results.genruntimeconfig.cache
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Student results\Student results\obj\Debug\net10.0\ref\Student results.dll

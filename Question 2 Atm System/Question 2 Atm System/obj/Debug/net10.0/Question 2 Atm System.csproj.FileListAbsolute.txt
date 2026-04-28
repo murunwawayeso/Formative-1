@@ -1,0 +1,14 @@
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question 2 Atm System\Question 2 Atm System\bin\Debug\net10.0\Question 2 Atm System.exe
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question 2 Atm System\Question 2 Atm System\bin\Debug\net10.0\Question 2 Atm System.deps.json
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question 2 Atm System\Question 2 Atm System\bin\Debug\net10.0\Question 2 Atm System.runtimeconfig.json
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question 2 Atm System\Question 2 Atm System\bin\Debug\net10.0\Question 2 Atm System.dll
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question 2 Atm System\Question 2 Atm System\bin\Debug\net10.0\Question 2 Atm System.pdb
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question 2 Atm System\Question 2 Atm System\obj\Debug\net10.0\Question 2 Atm System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question 2 Atm System\Question 2 Atm System\obj\Debug\net10.0\Question 2 Atm System.AssemblyInfoInputs.cache
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question 2 Atm System\Question 2 Atm System\obj\Debug\net10.0\Question 2 Atm System.AssemblyInfo.cs
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question 2 Atm System\Question 2 Atm System\obj\Debug\net10.0\Question 2 Atm System.csproj.CoreCompileInputs.cache
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question 2 Atm System\Question 2 Atm System\obj\Debug\net10.0\Question 2 Atm System.dll
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question 2 Atm System\Question 2 Atm System\obj\Debug\net10.0\refint\Question 2 Atm System.dll
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question 2 Atm System\Question 2 Atm System\obj\Debug\net10.0\Question 2 Atm System.pdb
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question 2 Atm System\Question 2 Atm System\obj\Debug\net10.0\Question 2 Atm System.genruntimeconfig.cache
+C:\Users\ntoko\OneDrive\Documents\Visual Studio 18\C# PROJECTS\Formative 1\Question 2 Atm System\Question 2 Atm System\obj\Debug\net10.0\ref\Question 2 Atm System.dll
